@@ -29,5 +29,6 @@
       <input type="submit" value="register">
       </form>
       </body>
+      </html>
       
       
