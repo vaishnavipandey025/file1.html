@@ -28,5 +28,6 @@
       </select>
       <input type="submit" value="register">
       </form>
+      </body>
       
       
